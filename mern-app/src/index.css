@@ -1,0 +1,9 @@
+main {
+  margin: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
